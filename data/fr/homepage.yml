@@ -14,8 +14,8 @@ banner:
 ############################# About #################################
 about:
   enable : true
-  title : "Qu'est-ce qu'UtilitR ?"
-  description : "Description du projet UtilitR"
+  title : "Qu'est-ce qu'`utilitR` ?"
+  description : "Description du projet `utilitR`"
   content : "
   Le projet `UtilitR` est une documentation sur l'usage du logiciel `R`
   destinée à tout
