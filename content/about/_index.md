@@ -5,14 +5,14 @@ draft: false
 bg_image: "images/logo-utilitr.png"
 ---
 
-# Qu'est-ce que le projet `utilitR` ?
+## Qu'est-ce que le projet `utilitR` ?
 
 
 Le projet `utilitR` est une documentation sur l'usage de `R` et destinée à toute personne intéressée par le traitement de données, quel que soit le niveau de connaissance du logiciel `R`.
 
 Cette documentation en français est rédigée par des utilisateurs de `R`. Elle propose un panorama des possibilités offertes par le logiciel qui peuvent bénéficier à la statistique publique.
 
-# Que contient la documentation `utilitR` ?
+## Que contient la documentation `utilitR` ?
 
 Le principal élément du projet `utilitR` est, à l'heure actuelle, la documentation [disponible ici](www.book.utilitr.org). 
 
@@ -27,14 +27,14 @@ Pour le moment, la documentation est structurée en trois grandes parties :
     
 Les exemples s'appuient sur des données disponibles sur le [site de l'Insee](www.insee.fr) disponibles grâce au projet [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol). 
 
-# Quelles formes prend la documentation `utilitR` ?
+## Quelles formes prend la documentation `utilitR` ?
 
 La documentation `utilitR` est diffusée sous deux formes :
 
 * une [documentation en ligne](www.book.utilitr.org) mise à jour régulièrement ;
 * une brochure annuelle en pdf qui reprend le même contenu à une date de diffusion fixée à l'avance.
 
-# Comment participer au projet `utilitR` ?
+## Comment participer au projet `utilitR` ?
 
 Le projet `utilitR` est un projet collaboratif, *open source* et ouvert à tous.
 
