@@ -40,3 +40,4 @@ Le projet `utilitR` est un projet collaboratif, *open source* et ouvert à tous.
 Toute personne peut proposer de modifier ou compléter la documentation en fonction de ses connaissances et de ses expériences. Toutes les contributions sont les bienvenues : compléments, corrections d'erreur, améliorations, questions... Il n'y a aucun prérequis, et aucun niveau minimal en `R` n'est demandé.
 
 Si vous souhaitez rejoindre le groupe de contributeurs, vous pouvez vous rendre sur le [dépôt Github d'InseeFrLab où est disponible le projet](https://github.com/InseeFrLab/utilitR)
+<a href="https://github.com/InseeFrLab/utilitR" class="github"><i class="fab fa-github"></i></a>
