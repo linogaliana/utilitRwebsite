@@ -27,7 +27,10 @@ about:
   par le logiciel qui peuvent bénéfcier à la statistique publique
   "
   image : "images/logo-utilitr.png"
-
+  button:
+    enable : true
+    label : "En savoir plus sur UtilitR"
+    link : "about"
 
 ######################### Portfolio ###############################
 portfolio:
