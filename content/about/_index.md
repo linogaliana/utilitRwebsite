@@ -20,9 +20,10 @@ Cette documentation se compose d'un ensemble de fiches pratiques, conçues pour 
 
 Les fiches renvoient également vers des ressources documentaires plus développées, pour les utilisateurs avancés.
 Pour le moment, la documentation est structurée en trois grandes parties :
-    • Comment configurer R pour mener des projets statistiques ?
-    • Comment réaliser des tâches standards avec R ?
-    • Quelles sont les bonnes pratiques à respecter pour bien utiliser R ?
+
+* Comment configurer R pour mener des projets statistiques ?
+* Comment réaliser des tâches standards avec R ?
+* Quelles sont les bonnes pratiques à respecter pour bien utiliser R ?
     
 Les exemples s'appuient sur des données disponibles sur le [site de l'Insee](www.insee.fr) disponibles grâce au projet [doremifasol](https://github.com/InseeFrLab/DoReMIFaSol). 
 
