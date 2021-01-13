@@ -33,7 +33,7 @@ about:
   button:
     enable : true
     label : "En savoir plus sur UtilitR"
-    link : "about"
+    link : "about/"
 
 ######################### Portfolio ###############################
 portfolio:
