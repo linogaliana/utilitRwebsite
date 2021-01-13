@@ -1,9 +1,11 @@
 ---
 title: "utilitR"
-description: "Présentation du projet `utilitR`"
+description: "Présentation du projet utilitR"
 draft: false
 bg_image: "images/logo-utilitr.png"
 ---
+
+Cette page présente le projet `utilitR`
 
 ## Qu'est-ce que le projet `utilitR` ?
 
