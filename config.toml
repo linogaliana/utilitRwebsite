@@ -235,7 +235,7 @@ weight = 3
 # footer menu
 [[Languages.fr.menu.footer]]
 name = "About"
-URL = "about/"
+URL = "about/utilitr"
 weight = 1
 
 [[Languages.fr.menu.footer]]
