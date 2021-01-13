@@ -1,3 +1,12 @@
+---
+title: "Le projet utilitR"
+description: "Présentation"
+draft: false
+bg_image: "images/logo-utilitr.png"
+---
+
+Cette page présente le projet `utilitR`
+
 ## Qu'est-ce que le projet `utilitR` ?
 
 Le projet `utilitR` est une documentation sur l'usage de `R` et destinée à toute personne intéressée par le traitement de données, quel que soit le niveau de connaissance du logiciel `R`.
@@ -33,4 +42,3 @@ Le projet `utilitR` est un projet collaboratif, *open source* et ouvert à tous.
 Toute personne peut proposer de modifier ou compléter la documentation en fonction de ses connaissances et de ses expériences. Toutes les contributions sont les bienvenues : compléments, corrections d'erreur, améliorations, questions... Il n'y a aucun prérequis, et aucun niveau minimal en `R` n'est demandé.
 
 Si vous souhaitez rejoindre le groupe de contributeurs, vous pouvez vous rendre sur le [dépôt Github d'InseeFrLab où est disponible le projet](https://github.com/InseeFrLab/utilitR)
-<a href="https://github.com/InseeFrLab/utilitR" class="github"><i class="fab fa-github"></i></a>
