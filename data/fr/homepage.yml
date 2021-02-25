@@ -52,7 +52,7 @@ portfolio:
   button:
     enable : true
     label : "View Works"
-    link : "project"
+    link : "projects"
 
 
 ############################# Service ############################
