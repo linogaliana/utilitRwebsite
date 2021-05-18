@@ -13,6 +13,8 @@ slug: decouverte-utilitr
 
 ## Présentation de l'événement
 
+**Cette page sera enrichie ultérieurement**
+
 
 * Comment importer une table SAS avec R ?
 * Comment faire des graphiques avec R ? 
