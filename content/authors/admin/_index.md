@@ -44,8 +44,8 @@ superuser: true
 title: La team utilitR
 ---
 
-Le projet `utilitR` est une documentation sur l'usage de `R` et destinée à
-toute personne intéressée par le traitement de données, quel que soit le niveau de connaissance du logiciel `R`.
+Le projet `utilitR` est une documentation sur l'usage de <i class="fab fa-r-project"></i> et destinée à
+toute personne intéressée par le traitement de données, quel que soit le niveau de connaissance du logiciel <i class="fab fa-r-project"></i>.
 
 Le projet est actuellement maintenu par [Lino Galiana](https://github.com/linogaliana)
 et [Olivier Meslin](https://github.com/oliviermeslin)
