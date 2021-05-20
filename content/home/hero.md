@@ -24,7 +24,7 @@ advanced:
 
 **Une documentation utile pour R**
 
-Le projet utilitR est une documentation sur l’usage du logiciel R, née
+Le projet utilitR est une documentation sur l’usage du logiciel <i class="fab fa-r-project"></i>, née
 à l'Insee, destinée à
 tout utilisateur intéressé par la manipulation de données sans pré-requis de niveau.
 
