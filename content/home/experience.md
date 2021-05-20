@@ -40,7 +40,10 @@ experience:
     date_start: '2021-06-08'
     date_end: '2021-06-09'
     description: |2-
-        Communication ouverte à l'ensemble du système statistique public de la philosophie du projet et du contenu de la documentation
+        Un événement pour découvrir utilitR:
+        
+        * Présentation du contenu de la documentation
+        * Présentation de l'originalité de la démarche collaborative
 #        * Analysing
 #        * Modelling
 #        * Deploying
