@@ -35,4 +35,4 @@ Un guide des bonnes pratiques complémentaire à la
 [documentation](https://www.book.utilitr.org)
 est disponible [ici](https://www.pratiques.utilitr.org/)
 
-Plus de détails sur le projet ici XXXXXXX
+Plus de détails sur le projet [ici](post/about-utilitr/)

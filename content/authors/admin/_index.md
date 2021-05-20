@@ -52,4 +52,4 @@ et [Olivier Meslin](https://github.com/oliviermeslin)
 
 **La liste des contributeurs est disponible [ici](https://github.com/InseeFrLab/utilitR/blob/master/DESCRIPTION).**
 
-[Plus de détails ici]() XXXXX
+[Plus de détails ici](post/about-utilitr/)
