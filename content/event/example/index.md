@@ -74,38 +74,53 @@ Deux sessions de 2h30 sont prévues:
 <thead>
   <tr>
     <th class="tg-0lax">9h50</th>
-    <th class="tg-0lax">10h</th>
+    <th class="tg-0lax">10h00</th>
     <th class="tg-baqh" colspan="6">Accueil</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">10h</td>
-    <td class="tg-0lax">10h50</td>
-    <td class="tg-baqh" colspan="6">Présentation d'<code>utilitR</code> (session plénière)</td>
+    <td class="tg-0lax">10h00</td>
+    <td class="tg-0lax">10h10</td>
+    <td class="tg-baqh" colspan="6">Session plénière : Introduction générale </td>
   </tr>
   <tr>
+    <td class="tg-0lax">10h10</td>
+    <td class="tg-0lax">10h40</td>
+    <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10h40</td>
     <td class="tg-0lax">10h50</td>
-    <td class="tg-0lax">11h</td>
     <td class="tg-baqh" colspan="6">Répartition en ateliers <i class="fab fa-r-project"></i> </td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">11h</td>
-    <td class="tg-0lax" rowspan="2">11h50</td>
+    <td class="tg-0lax" rowspan="2">10h50</td>
+    <td class="tg-0lax" rowspan="2">11h40</td>
     <td class="tg-baqh" colspan="6">Ateliers virtuels</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Importer des fichiers plats et des tableurs</td>
-    <td class="tg-0lax">Utiliser le tidyverse</td>
-    <td class="tg-0lax">Faire des graphiques</td>
-    <td class="tg-0lax">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
-    <td class="tg-0lax">Utiliser <code>data.table</code></td>
-    <td class="tg-0lax">Travailler avec les fichiers détails du Recensement de Population en <i class="fab fa-r-project"></td>
+    <td class="tg-0lax" style = "width: 16%;">Importer des fichiers plats et des tableurs</td>
+    <td class="tg-0lax" style = "width: 16%;">Utiliser le tidyverse</td>
+    <td class="tg-0lax" style = "width: 16%;">Faire des graphiques</td>
+    <td class="tg-0lax" style = "width: 16%;">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
+    <td class="tg-0lax" style = "width: 16%;">Utiliser <code>data.table</td>
+    <td class="tg-0lax" style = "width: 16%;">Travailler avec les fichiers détails du Recensement de Population en <i class="fab fa-r-project"></td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">11h50</td>
-    <td class="tg-0lax" rowspan="2">?</td>
-    <td class="tg-baqh" colspan="6">Conclusion de la demie-journée</td>
+    <td class="tg-0lax">11h40</td>
+    <td class="tg-0lax">11h50</td>
+    <td class="tg-baqh" colspan="6">Retour en présentiel </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11h50</td>
+    <td class="tg-0lax">12h20</td>
+    <td class="tg-baqh" colspan="6"><code>utilitR</code> dans l’ensemble des ressources d’apprentissage de <code>R</code></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">12h20</td>
+    <td class="tg-0lax">12h30</td>
+    <td class="tg-baqh" colspan="6">Conclusion générale</td>
   </tr>
 </tbody>
 </table>
@@ -174,8 +189,8 @@ Deux sessions de 2h30 sont prévues:
     <td class="tg-c3ow" colspan="2">Retours d'expériences (sessions parallèles)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mise en place d’une auto-formation à <i class="fab fa-r-project"> : l’exemple du Grand Est</td>
-    <td class="tg-0pky">Rédaction collaborative des notes et points de conjoncture depuis <code>Gitlab</code></td>
+    <td class="tg-0pky" style = "width: 50%;">Mise en place d’une auto-formation à <i class="fab fa-r-project"> : l’exemple du Grand Est</td>
+    <td class="tg-0pky" style = "width: 50%;">Rédaction collaborative des notes et points de conjoncture depuis <code>Gitlab</code></td>
   </tr>
   <tr>
     <td class="tg-0pky">11h50</td>
