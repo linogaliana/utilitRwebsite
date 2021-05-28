@@ -101,11 +101,11 @@ Deux sessions de 2h30 sont prévues:
   </tr>
   <tr>
     <td class="tg-0lax" style = "width: 16%;">Importer des fichiers plats et des tableurs</td>
-    <td class="tg-0lax" style = "width: 16%;">Utiliser le tidyverse</td>
+    <td class="tg-0lax" style = "width: 16%;">Manipuler des tables de données avec le <code>tidyverse</code></td>
     <td class="tg-0lax" style = "width: 16%;">Faire des graphiques</td>
     <td class="tg-0lax" style = "width: 16%;">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
-    <td class="tg-0lax" style = "width: 16%;">Utiliser <code>data.table</td>
-    <td class="tg-0lax" style = "width: 16%;">Travailler avec les fichiers détails du Recensement de Population en <i class="fab fa-r-project"></td>
+    <td class="tg-0lax" style = "width: 16%;">Manipuler des tables de données avec <code>data.table</td>
+    <td class="tg-0lax" style = "width: 16%;">Travailler avec des bases de données en <code>R</code> : les fichiers détails du Recensement de la Population</td>
   </tr>
   <tr>
     <td class="tg-0lax">11h40</td>
