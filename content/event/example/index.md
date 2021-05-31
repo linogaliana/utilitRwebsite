@@ -9,7 +9,7 @@ abstract: "Matinées de découverte d'utilitR qui auront lieu les 8 juin et 9 ju
 all_day: false
 authors: []
 date: "2021-06-08T10:00:00Z"
-date_end: "2021-08-01T12:30:00Z"
+date_end: "2021-06-09T12:30:00Z"
 event: Matinées de découverte d'utilitR
 #event_url: https://example.org
 featured: true
@@ -28,7 +28,7 @@ publishDate: "2021-05-20T00:00:00Z"
 # slides: example
 summary: Information sur l'événement
 tags: ["découvrir utilitR"]
-title: Matinées de découverte utilitR
+title: Matinées de découverte `utilitR`
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -53,13 +53,13 @@ Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pa
 
 Deux sessions de 2h30 sont prévues:
 
-* __Le 8 juin - Apprendre à utiliser R avec la documentation `utilitR`__ : Présentation générale de la documentation utilitR et d'autres ressources sur R, puis découverte de la documentation sous forme d'ateliers.
-* __Le 9 juin - Mener un projet avec des outils collaboratifs__ : Présentation du fonctionnement du projet utilitR et d'autres projets collaboratifs autour des environnements de traitement du chiffre.
+* __Le 8 juin - Apprendre à utiliser `R` avec la documentation `utilitR`__ : Présentation générale de la documentation `utilitR` et d'autres ressources sur `R`, puis découverte de la documentation sous forme d'ateliers.
+* __Le 9 juin - Mener un projet avec des outils collaboratifs__ : Présentation du fonctionnement du projet `utilitR` et d'autres projets collaboratifs autour des environnements de traitement du chiffre.
 
 
 ## Programme du Mardi 8 Juin
 
-**Apprendre à utiliser R avec la documentation utilitR**
+**Apprendre à utiliser `R` avec la documentation `utilitR`**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -74,38 +74,53 @@ Deux sessions de 2h30 sont prévues:
 <thead>
   <tr>
     <th class="tg-0lax">9h50</th>
-    <th class="tg-0lax">10h</th>
+    <th class="tg-0lax">10h00</th>
     <th class="tg-baqh" colspan="6">Accueil</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">10h</td>
-    <td class="tg-0lax">10h50</td>
-    <td class="tg-baqh" colspan="6">Présentation d'<code>utilitR</code> (session plénière)</td>
+    <td class="tg-0lax">10h00</td>
+    <td class="tg-0lax">10h10</td>
+    <td class="tg-baqh" colspan="6">Session plénière : Introduction générale </td>
   </tr>
   <tr>
+    <td class="tg-0lax">10h10</td>
+    <td class="tg-0lax">10h40</td>
+    <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">10h40</td>
     <td class="tg-0lax">10h50</td>
-    <td class="tg-0lax">11h</td>
     <td class="tg-baqh" colspan="6">Répartition en ateliers <i class="fab fa-r-project"></i> </td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">11h</td>
-    <td class="tg-0lax" rowspan="2">11h50</td>
+    <td class="tg-0lax" rowspan="2">10h50</td>
+    <td class="tg-0lax" rowspan="2">11h40</td>
     <td class="tg-baqh" colspan="6">Ateliers virtuels</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Importer des fichiers plats et des tableurs</td>
-    <td class="tg-0lax">Utiliser le tidyverse</td>
-    <td class="tg-0lax">Faire des graphiques</td>
-    <td class="tg-0lax">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
-    <td class="tg-0lax">Utiliser <code>data.table</code></td>
-    <td class="tg-0lax">Travailler avec les fichiers détails du Recensement de Population en <i class="fab fa-r-project"></td>
+    <td class="tg-0lax" style = "width: 16%;">Importer des fichiers plats et des tableurs</td>
+    <td class="tg-0lax" style = "width: 16%;">Manipuler des tables de données avec le <code>tidyverse</code></td>
+    <td class="tg-0lax" style = "width: 16%;">Faire des graphiques</td>
+    <td class="tg-0lax" style = "width: 16%;">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
+    <td class="tg-0lax" style = "width: 16%;">Manipuler des tables de données avec <code>data.table</td>
+    <td class="tg-0lax" style = "width: 16%;">Travailler avec des bases de données en <code>R</code> : les fichiers détails du Recensement de la Population</td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">11h50</td>
-    <td class="tg-0lax" rowspan="2">?</td>
-    <td class="tg-baqh" colspan="6">Conclusion de la demie-journée</td>
+    <td class="tg-0lax">11h40</td>
+    <td class="tg-0lax">11h50</td>
+    <td class="tg-baqh" colspan="6">Retour en présentiel </td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">11h50</td>
+    <td class="tg-0lax">12h20</td>
+    <td class="tg-baqh" colspan="6"><code>utilitR</code> dans l’ensemble des ressources d’apprentissage de <code>R</code></td>
+  </tr>
+    <tr>
+    <td class="tg-0lax">12h20</td>
+    <td class="tg-0lax">12h30</td>
+    <td class="tg-baqh" colspan="6">Conclusion générale</td>
   </tr>
 </tbody>
 </table>
@@ -129,7 +144,7 @@ Deux sessions de 2h30 sont prévues:
     
 ## Programme du Mercredi 9 Juin
 
-**Présentation du fonctionnement du projet utilitR et d’autres projets collaboratifs autour des environnements de traitement du chiffre.**
+**Présentation du fonctionnement du projet `utilitR` et d’autres projets collaboratifs autour des environnements de traitement du chiffre.**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -174,8 +189,8 @@ Deux sessions de 2h30 sont prévues:
     <td class="tg-c3ow" colspan="2">Retours d'expériences (sessions parallèles)</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Mise en place d’une auto-formation à <i class="fab fa-r-project"> : l’exemple du Grand Est</td>
-    <td class="tg-0pky">Rédaction collaborative des notes et points de conjoncture depuis <code>Gitlab</code></td>
+    <td class="tg-0pky" style = "width: 50%;">Mise en place d’une auto-formation à <i class="fab fa-r-project"> : l’exemple du Grand Est</td>
+    <td class="tg-0pky" style = "width: 50%;">Rédaction collaborative des notes et points de conjoncture depuis <code>Gitlab</code></td>
   </tr>
   <tr>
     <td class="tg-0pky">11h50</td>
