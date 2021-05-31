@@ -1,16 +1,10 @@
 ---
 abstract: "Matinées de découverte d'utilitR qui auront lieu les 8 juin et 9 juin 2021 de 10h à 12h30"
-#address:
-#  city: Stanford
-#  country: United States
-#  postcode: "94305"
-#  region: CA
-#  street: 450 Serra Mall
 all_day: false
 authors: []
-date: "2021-06-08T10:00:00Z"
-date_end: "2021-06-09T12:30:00Z"
-event: Matinées de découverte d'utilitR
+# date: "2021-06-08T10:00:00Z"
+# date_end: "2021-06-09T12:30:00Z"
+event: Matinées de découverte d'`utilitR`
 #event_url: https://example.org
 featured: true
 # image:
@@ -36,22 +30,18 @@ url_video: ""
 slug: decouverte-utilitr
 ---
 
-> :tada: A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux
+A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux
 **matinées de découverte d'utilitR** qui auront lieu les
 **8 juin et 9 juin 2021 de 10h à 12h30**
->
-> Réservez les dates dans vos agendas !
+
+Réservez les dates dans vos agendas !
 
 Ces matinées sont proposées via **`zoom`**.
-Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires.
-
-Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
 ## Programme
 
-*Ce programme sera complété ultérieurement*
-
-Deux sessions de 2h30 sont prévues:
+Deux sessions de 2h30 sont prévues :
 
 * __Le 8 juin - Apprendre à utiliser `R` avec la documentation `utilitR`__ : Présentation générale de la documentation `utilitR` et d'autres ressources sur `R`, puis découverte de la documentation sous forme d'ateliers.
 * __Le 9 juin - Mener un projet avec des outils collaboratifs__ : Présentation du fonctionnement du projet `utilitR` et d'autres projets collaboratifs autour des environnements de traitement du chiffre.
