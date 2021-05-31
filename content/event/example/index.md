@@ -9,7 +9,7 @@ abstract: "Matinées de découverte d'utilitR qui auront lieu les 8 juin et 9 ju
 all_day: false
 authors: []
 date: "2021-06-08T10:00:00Z"
-date_end: "2021-08-01T12:30:00Z"
+date_end: "2021-06-09T12:30:00Z"
 event: Matinées de découverte d'utilitR
 #event_url: https://example.org
 featured: true
@@ -28,7 +28,7 @@ publishDate: "2021-05-20T00:00:00Z"
 # slides: example
 summary: Information sur l'événement
 tags: ["découvrir utilitR"]
-title: Matinées de découverte utilitR
+title: Matinées de découverte `utilitR`
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -53,13 +53,13 @@ Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pa
 
 Deux sessions de 2h30 sont prévues:
 
-* __Le 8 juin - Apprendre à utiliser R avec la documentation `utilitR`__ : Présentation générale de la documentation utilitR et d'autres ressources sur R, puis découverte de la documentation sous forme d'ateliers.
-* __Le 9 juin - Mener un projet avec des outils collaboratifs__ : Présentation du fonctionnement du projet utilitR et d'autres projets collaboratifs autour des environnements de traitement du chiffre.
+* __Le 8 juin - Apprendre à utiliser `R` avec la documentation `utilitR`__ : Présentation générale de la documentation `utilitR` et d'autres ressources sur `R`, puis découverte de la documentation sous forme d'ateliers.
+* __Le 9 juin - Mener un projet avec des outils collaboratifs__ : Présentation du fonctionnement du projet `utilitR` et d'autres projets collaboratifs autour des environnements de traitement du chiffre.
 
 
 ## Programme du Mardi 8 Juin
 
-**Apprendre à utiliser R avec la documentation utilitR**
+**Apprendre à utiliser `R` avec la documentation `utilitR`**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -144,7 +144,7 @@ Deux sessions de 2h30 sont prévues:
     
 ## Programme du Mercredi 9 Juin
 
-**Présentation du fonctionnement du projet utilitR et d’autres projets collaboratifs autour des environnements de traitement du chiffre.**
+**Présentation du fonctionnement du projet `utilitR` et d’autres projets collaboratifs autour des environnements de traitement du chiffre.**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
