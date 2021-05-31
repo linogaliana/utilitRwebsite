@@ -36,7 +36,7 @@ url_video: ""
 slug: decouverte-utilitr
 ---
 
-> :tada: A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux
+> :tada: :date: :eight: :nine: A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux
 **matinées de découverte d'utilitR** qui auront lieu les
 **8 juin et 9 juin 2021 de 10h à 12h30**
 >
