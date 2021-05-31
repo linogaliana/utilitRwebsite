@@ -22,7 +22,7 @@ publishDate: "2021-05-20T00:00:00Z"
 # slides: example
 summary: Information sur l'événement
 tags: ["découvrir utilitR"]
-title: Matinées de découverte `utilitR`
+title: Matinées de découverte utilitR
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -32,7 +32,7 @@ slug: decouverte-utilitr
 
 A l'occasion de la sortie de la première version d'utilitR, vous êtes tous invités aux
 **matinées de découverte d'utilitR** qui auront lieu les
-**8 juin et 9 juin 2021 de 10h à 12h30**
+**8 juin et 9 juin 2021 de 10h à 12h30**.
 
 Réservez les dates dans vos agendas !
 
