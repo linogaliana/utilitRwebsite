@@ -3,7 +3,7 @@ title: "Matinées de découverte utilitR"
 author: admin
 date: 2021-05-17
 description: "Pour découvrir le projet utilitR, rendez-vous les 8 juin et 9 juin 2021 de 10h à 12h30"
-draft: false
+draft: true
 categories: ["Le projet utilitR"]
 tags: ["presentation","conferences"]
 featured: true
