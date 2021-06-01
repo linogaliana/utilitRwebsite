@@ -36,8 +36,13 @@ A l'occasion de la sortie de la première version d'utilitR, vous êtes tous inv
 
 Réservez les dates dans vos agendas !
 
-Ces matinées sont proposées via **`zoom`**.
+Ces matinées sont proposées via **`Zoom`**.
+
 Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+
+*N'hésitez pas à vous inscrire sur le [SSP Cloud](datalab.sspcloud.fr/)
+pour tester les exemples présentés.*
+
 
 ## Programme
 
