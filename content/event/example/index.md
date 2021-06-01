@@ -36,7 +36,7 @@ A l'occasion de la sortie de la première version d'utilitR, vous êtes tous inv
 
 Réservez les dates dans vos agendas !
 
-Ces matinées sont proposées via **`Zoom`**.
+Ces matinées sont proposées via **`Zoom`** (créneaux ajoutés prochainement).
 
 Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
