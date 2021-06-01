@@ -2,8 +2,8 @@
 abstract: "Matinées de découverte d'utilitR qui auront lieu les 8 juin et 9 juin 2021 de 10h à 12h30"
 all_day: false
 authors: []
-# date: "2021-06-08T10:00:00Z"
-# date_end: "2021-06-09T12:30:00Z"
+date: "2021-06-08T10:00:00Z"
+date_end: "2021-06-09T12:30:00Z"
 event: Matinées de découverte d'`utilitR`
 #event_url: https://example.org
 featured: true
@@ -18,7 +18,7 @@ featured: true
 # location: Wowchemy HQ
 # projects:
 # - internal-project
-publishDate: "2021-05-20T00:00:00Z"
+#publishDate: "2021-05-20T00:00:00Z"
 # slides: example
 summary: Information sur l'événement
 tags: ["découvrir utilitR"]
