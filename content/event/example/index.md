@@ -34,7 +34,7 @@ A l'occasion de la sortie de la première version d'utilitR, vous êtes tous inv
 **matinées de découverte d'utilitR** qui auront lieu les
 **8 juin et 9 juin 2021 de 10h à 12h30**.
 
-Réservez les dates dans vos agendas !
+Réservez les dates dans vos agendas ! :date: :calendar:
 
 Ces matinées sont proposées via **`Zoom`** (créneaux ajoutés prochainement).
 
