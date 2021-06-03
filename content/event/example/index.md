@@ -240,7 +240,7 @@ sont fournis.
     <td class="tg-0pky">9h30</td>
     <td class="tg-0pky">10h00</td>
     <td class="tg-0pky">Accueil</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">935 8022 6386</td>
     <td class="tg-0pky">270758</td>
   </tr>
@@ -248,7 +248,7 @@ sont fournis.
     <td class="tg-0pky">10h00</td>
     <td class="tg-0pky">10h10</td>
     <td class="tg-0pky">Session plénière : Introduction générale</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">935 8022 6386</td>
     <td class="tg-0pky">270758</td>
   </tr>
@@ -256,7 +256,7 @@ sont fournis.
     <td class="tg-0pky">10h10</td>
     <td class="tg-0pky">10h40</td>
     <td class="tg-0pky">Session plénière : présentation d'utilitR, présentation des ateliers</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">935 8022 6386</td>
     <td class="tg-0pky">270758</td>
   </tr>
@@ -275,7 +275,7 @@ sont fournis.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Importer des fichiers plats et des tableurs</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">935 8022 6386</td>
     <td class="tg-0pky">270758</td>
   </tr>
@@ -283,7 +283,7 @@ sont fournis.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Manipuler des tables de données avec le tidyverse</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/96617047636?pwd=VlVOQUVpNFQzbHVXMGJEdTBVbmdSdz09"><span style="color:#905">https://zoom.us/j/96617047636?pwd=VlVOQUVpNFQzbHVXMGJEdTBVbmdSdz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/96617047636?pwd=VlVOQUVpNFQzbHVXMGJEdTBVbmdSdz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">966 1704 7636</td>
     <td class="tg-0pky">140768</td>
   </tr>
@@ -291,7 +291,7 @@ sont fournis.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Faire des graphiques</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/97910050921?pwd=YTNvZEUwenJxc0tXOTJQT3VVVVNMZz09"><span style="color:#905">https://zoom.us/j/97910050921?pwd=YTNvZEUwenJxc0tXOTJQT3VVVVNMZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/97910050921?pwd=YTNvZEUwenJxc0tXOTJQT3VVVVNMZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">979 1005 0921</td>
     <td class="tg-0pky">585723</td>
   </tr>
@@ -299,7 +299,7 @@ sont fournis.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98113564230?pwd=ZEJQZm5LZHZrdmdnNnE3b2MrcUZPQT09"><span style="color:#905">https://zoom.us/j/98113564230?pwd=ZEJQZm5LZHZrdmdnNnE3b2MrcUZPQT09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98113564230?pwd=ZEJQZm5LZHZrdmdnNnE3b2MrcUZPQT09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">981 1356 4230</td>
     <td class="tg-0pky">752932</td>
   </tr>
@@ -307,7 +307,7 @@ sont fournis.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Manipuler des tables de données avec data.table</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98009137082?pwd=d2NJcXN5N3pPK2dXbTIwQzhpM0FEQT09"><span style="color:#905">https://zoom.us/j/98009137082?pwd=d2NJcXN5N3pPK2dXbTIwQzhpM0FEQT09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98009137082?pwd=d2NJcXN5N3pPK2dXbTIwQzhpM0FEQT09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">980 0913 7082</td>
     <td class="tg-0pky">950717</td>
   </tr>
@@ -315,7 +315,7 @@ sont fournis.
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Travailler avec des bases de données en R : les fichiers détails du Recensement de la Population</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/95499763374?pwd=NnFpeC8xbnp4THo2SEh1SktqamFxQT09"><span style="color:#905">https://zoom.us/j/95499763374?pwd=NnFpeC8xbnp4THo2SEh1SktqamFxQT09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/95499763374?pwd=NnFpeC8xbnp4THo2SEh1SktqamFxQT09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">954 9976 3374</td>
     <td class="tg-0pky">184803</td>
   </tr>
@@ -331,7 +331,7 @@ sont fournis.
     <td class="tg-0pky">11h50</td>
     <td class="tg-0pky">12h20</td>
     <td class="tg-0pky">utilitR dans l’ensemble des ressources d’apprentissage de R</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">935 8022 6386</td>
     <td class="tg-0pky">270758</td>
   </tr>
@@ -339,7 +339,7 @@ sont fournis.
     <td class="tg-0pky">12h20</td>
     <td class="tg-0pky">12h30</td>
     <td class="tg-0pky">Conclusion générale</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
     <td class="tg-0pky">935 8022 6386</td>
     <td class="tg-0pky">270758</td>
   </tr>
@@ -374,7 +374,7 @@ sont fournis.
     <td class="tg-1wig">9h30</td>
     <td class="tg-1wig">10h</td>
     <td class="tg-cly1">Accueil</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -382,7 +382,7 @@ sont fournis.
     <td class="tg-1wig">10h</td>
     <td class="tg-1wig">10h30</td>
     <td class="tg-cly1">Présentation de la démarche collaborative utilitR</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -400,7 +400,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Se former à l'utilisation de Git avec RStudio</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -408,7 +408,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Utilisation de l'intégration continue avec Git et Rmarkdown par la cellule de crise covid de la Drees</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">946 3648 5688</td>
     <td class="tg-cly1">970538</td>
   </tr>
@@ -421,7 +421,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Mise en place d’une auto-formation à : l’exemple du Grand Est</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -429,7 +429,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Rédaction collaborative des notes et points de conjoncture depuis Gitlab</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">946 3648 5688</td>
     <td class="tg-cly1">970538</td>
   </tr>
@@ -437,7 +437,7 @@ sont fournis.
     <td class="tg-1wig">11h50</td>
     <td class="tg-1wig">12h20</td>
     <td class="tg-cly1">La démarche PROPRE (PROcessus de Publications REproductibles)</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -445,7 +445,7 @@ sont fournis.
     <td class="tg-1wig">12h20</td>
     <td class="tg-1wig">12h30</td>
     <td class="tg-cly1">Conclusion et perspectives : vers l’infini et au-delà !</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
