@@ -15,7 +15,7 @@ featured: true
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# location: Wowchemy HQ
+location: Visioconférence Zoom
 # projects:
 # - internal-project
 publishDate: "2021-05-20T00:00:00Z"
@@ -38,11 +38,12 @@ Réservez les dates dans vos agendas ! :date: :calendar:
 
 Ces matinées sont proposées via **`Zoom`** (créneaux ajoutés prochainement).
 
-Des salles pourraient également être réservées à la Direction Générale de l'Insee sous réserve des conditions sanitaires. Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
+Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
 *N'hésitez pas à vous inscrire sur le [SSP Cloud](https://www.datalab.sspcloud.fr/)
-pour tester les exemples présentés.*
-
+pour tester les exemples présentés.* Un environnement avec toutes les 
+dépendances pré-installées est disponible sur le lien suivant: 
+[![SSPcloud](https://img.shields.io/badge/SSPcloud-Tester%20via%20SSP--cloud-informational?logo=R)](https://datalab.sspcloud.fr/launcher/inseefrlab-helm-charts-datascience/rstudio?onyxia.friendlyName=%C2%ABrstudio-utilitr%C2%BB&init.personnalInit=%C2%ABhttps%3A%2F%2Fraw.githubusercontent.com%2FInseeFrLab%2FutilitR%2Fmaster%2Fresources%2Finit_9juin.sh%C2%BB&r.version=%C2%ABinseefrlab%2Futilitr%3A0.7.0%C2%BB)
 
 ## Programme
 
@@ -68,9 +69,9 @@ Deux sessions de 2h30 sont prévues :
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax">9h50</th>
+    <th class="tg-0lax">9h30</th>
     <th class="tg-0lax">10h00</th>
-    <th class="tg-baqh" colspan="6">Accueil</th>
+    <th class="tg-baqh" colspan="6">Accueil (atelier de création de comptes SSPCloud)</th>
   </tr>
 </thead>
 <tbody>
@@ -81,17 +82,17 @@ Deux sessions de 2h30 sont prévues :
   </tr>
   <tr>
     <td class="tg-0lax">10h10</td>
-    <td class="tg-0lax">10h40</td>
-    <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers </td>
+    <td class="tg-0lax">10h50</td>
+    <td class="tg-baqh" colspan="6">Session plénière : présentation d'<code>utilitR</code>, présentation des ateliers, questions-réponses </td>
   </tr>
   <tr>
-    <td class="tg-0lax">10h40</td>
     <td class="tg-0lax">10h50</td>
+    <td class="tg-0lax">11h00</td>
     <td class="tg-baqh" colspan="6">Répartition en ateliers <i class="fab fa-r-project"></i> </td>
   </tr>
   <tr>
-    <td class="tg-0lax" rowspan="2">10h50</td>
-    <td class="tg-0lax" rowspan="2">11h40</td>
+    <td class="tg-0lax" rowspan="2">11h00</td>
+    <td class="tg-0lax" rowspan="2">11h50</td>
     <td class="tg-baqh" colspan="6">Ateliers virtuels</td>
   </tr>
   <tr>
@@ -103,12 +104,12 @@ Deux sessions de 2h30 sont prévues :
     <td class="tg-0lax" style = "width: 16%;">Travailler avec des bases de données en <code>R</code> : les fichiers détails du Recensement de la Population</td>
   </tr>
   <tr>
-    <td class="tg-0lax">11h40</td>
     <td class="tg-0lax">11h50</td>
-    <td class="tg-baqh" colspan="6">Retour en présentiel </td>
+    <td class="tg-0lax">12h00</td>
+    <td class="tg-baqh" colspan="6">Retour en session plénière </td>
   </tr>
   <tr>
-    <td class="tg-0lax">11h50</td>
+    <td class="tg-0lax">12h00</td>
     <td class="tg-0lax">12h20</td>
     <td class="tg-baqh" colspan="6"><code>utilitR</code> dans l’ensemble des ressources d’apprentissage de <code>R</code></td>
   </tr>
@@ -155,12 +156,17 @@ Deux sessions de 2h30 sont prévues :
   <tr>
     <th class="tg-0pky">9h50</th>
     <th class="tg-0pky">10h</th>
-    <th class="tg-c3ow" colspan="2">Accueil</th>
+    <th class="tg-c3ow" colspan="2">Accueil (atelier de création de comptes SSPCloud)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-0pky">10h</td>
+    <td class="tg-0pky">10h05</td>
+    <td class="tg-c3ow" colspan="2">Mot d'accueil</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10h05</td>
     <td class="tg-0pky">10h30</td>
     <td class="tg-c3ow" colspan="2">Présentation de la démarche collaborative<br> <code>utilitR</code></td>
   </tr>
@@ -176,7 +182,7 @@ Deux sessions de 2h30 sont prévues :
   </tr>
   <tr>
     <td class="tg-0pky">Se former à l'utilisation de <code>Git</code> avec <code>RStudio</code></td>
-    <td class="tg-0pky">Utilisation de l'intégration continue avec <code>Git</code> et <code>Rmarkdown</code> par la cellule de crise covid de la Drees</td>
+    <td class="tg-0pky">Utilisation de l'intégration continue avec <code>Gitlab</code> par la DREES en appui à la cellule de crise Covid</td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="2">11h15</td>
@@ -202,6 +208,7 @@ Deux sessions de 2h30 sont prévues :
 
 # Liens `Zoom`
 
+<<<<<<< HEAD
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
