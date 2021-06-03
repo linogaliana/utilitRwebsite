@@ -372,7 +372,7 @@ sont fournis.
     <td class="tg-1wig">9h30</td>
     <td class="tg-1wig">10h</td>
     <td class="tg-cly1">Accueil</td>
-    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -380,7 +380,7 @@ sont fournis.
     <td class="tg-1wig">10h</td>
     <td class="tg-1wig">10h30</td>
     <td class="tg-cly1">Présentation de la démarche collaborative utilitR</td>
-    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -398,7 +398,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Se former à l'utilisation de Git avec RStudio</td>
-    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
