@@ -443,7 +443,7 @@ sont fournis.
     <td class="tg-1wig">12h20</td>
     <td class="tg-1wig">12h30</td>
     <td class="tg-cly1">Conclusion et perspectives : vers l’infini et au-delà !</td>
-    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
