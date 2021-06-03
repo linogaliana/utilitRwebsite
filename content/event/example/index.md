@@ -413,9 +413,7 @@ sont fournis.
   <tr>
     <td class="tg-1wig">11h15</td>
     <td class="tg-1wig">11h45</td>
-    <td class="tg-nrix" colspan="2">Retours d'expériences (sessions parallèles)</td>
-    <td class="tg-znvi"></td>
-    <td class="tg-znvi"></td>
+    <td class="tg-nrix" colspan="4">Retours d'expériences (sessions parallèles)</td>
   </tr>
   <tr>
     <td class="tg-1wig"></td>
