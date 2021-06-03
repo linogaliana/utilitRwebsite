@@ -366,8 +366,8 @@ sont fournis.
     <td class="tg-1wig">10h</td>
     <td class="tg-cly1">Accueil</td>
     <td class="tg-0pky" rowspan="2"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
-    <td class="tg-cly1">981 9179 1531</td>
-    <td class="tg-cly1">558481</td>
+    <td class="tg-cly1" rowspan="2">981 9179 1531</td>
+    <td class="tg-cly1" rowspan="2">558481</td>
   </tr>
   <tr>
     <td class="tg-1wig">10h</td>
