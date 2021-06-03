@@ -406,7 +406,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Utilisation de l'intégration continue avec Git et Rmarkdown par la cellule de crise covid de la Drees</td>
-    <td class="tg-cly1">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</span></a>
     <td class="tg-cly1">946 3648 5688</td>
     <td class="tg-cly1">970538</td>
   </tr>
@@ -419,7 +419,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Mise en place d’une auto-formation à : l’exemple du Grand Est</td>
-    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -427,7 +427,7 @@ sont fournis.
     <td class="tg-1wig"></td>
     <td class="tg-1wig"></td>
     <td class="tg-cly1">Rédaction collaborative des notes et points de conjoncture depuis Gitlab</td>
-    <td class="tg-cly1">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09"><span style="color:#905">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</span></a>
     <td class="tg-cly1">946 3648 5688</td>
     <td class="tg-cly1">970538</td>
   </tr>
@@ -435,7 +435,7 @@ sont fournis.
     <td class="tg-1wig">11h50</td>
     <td class="tg-1wig">12h20</td>
     <td class="tg-cly1">La démarche PROPRE (PROcessus de Publications REproductibles)</td>
-    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
