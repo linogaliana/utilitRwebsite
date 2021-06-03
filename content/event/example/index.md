@@ -37,7 +37,7 @@ A l'occasion de la sortie de la première version d'`utilitR`, vous êtes tous i
 Réservez les dates dans vos agendas ! :date: :calendar:
 
 Ces matinées sont proposées via **`Zoom`**. Les informations d'accès sont disponibles
-plus loin sur [cette page](#liens-zoom)
+plus loin sur [cette page :point_down:](#liens-zoom)(#liens-zoom)
 
 Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
