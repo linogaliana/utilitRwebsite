@@ -240,9 +240,9 @@ sont fournis.
     <td class="tg-0pky">9h30</td>
     <td class="tg-0pky">10h00</td>
     <td class="tg-0pky">Accueil</td>
-    <td class="tg-0pky" rowspan="2"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
-    <td class="tg-0pky" rowspan="2">935 8022 6386</td>
-    <td class="tg-0pky" rowspan="2">270758</td>
+    <td class="tg-0pky" rowspan="3"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
+    <td class="tg-0pky" rowspan="3">935 8022 6386</td>
+    <td class="tg-0pky" rowspan="3">270758</td>
   </tr>
   <tr>
     <td class="tg-0pky">10h00</td>
@@ -253,9 +253,6 @@ sont fournis.
     <td class="tg-0pky">10h10</td>
     <td class="tg-0pky">10h40</td>
     <td class="tg-0pky">Session plénière : présentation d'utilitR, présentation des ateliers</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
-    <td class="tg-0pky">935 8022 6386</td>
-    <td class="tg-0pky">270758</td>
   </tr>
   <tr>
     <td class="tg-0pky">10h40</td>
@@ -328,17 +325,14 @@ sont fournis.
     <td class="tg-0pky">11h50</td>
     <td class="tg-0pky">12h20</td>
     <td class="tg-0pky">utilitR dans l’ensemble des ressources d’apprentissage de R</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
-    <td class="tg-0pky">935 8022 6386</td>
-    <td class="tg-0pky">270758</td>
+    <td class="tg-0pky" rowspan="2"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
+    <td class="tg-0pky" rowspan="2">935 8022 6386</td>
+    <td class="tg-0pky" rowspan="2">270758</td>
   </tr>
   <tr>
     <td class="tg-0pky">12h20</td>
     <td class="tg-0pky">12h30</td>
     <td class="tg-0pky">Conclusion générale</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
-    <td class="tg-0pky">935 8022 6386</td>
-    <td class="tg-0pky">270758</td>
   </tr>
 </tbody>
 </table>
@@ -371,7 +365,7 @@ sont fournis.
     <td class="tg-1wig">9h30</td>
     <td class="tg-1wig">10h</td>
     <td class="tg-cly1">Accueil</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
+    <td class="tg-0pky" rowspan="2"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
     <td class="tg-cly1">981 9179 1531</td>
     <td class="tg-cly1">558481</td>
   </tr>
@@ -379,9 +373,6 @@ sont fournis.
     <td class="tg-1wig">10h</td>
     <td class="tg-1wig">10h30</td>
     <td class="tg-cly1">Présentation de la démarche collaborative utilitR</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
-    <td class="tg-cly1">981 9179 1531</td>
-    <td class="tg-cly1">558481</td>
   </tr>
   <tr>
     <td class="tg-1wig">10h30</td>
@@ -434,17 +425,14 @@ sont fournis.
     <td class="tg-1wig">11h50</td>
     <td class="tg-1wig">12h20</td>
     <td class="tg-cly1">La démarche PROPRE (PROcessus de Publications REproductibles)</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
-    <td class="tg-cly1">981 9179 1531</td>
-    <td class="tg-cly1">558481</td>
+    <td class="tg-0pky" rowspan="2"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
+    <td class="tg-cly1" rowspan="2">981 9179 1531</td>
+    <td class="tg-cly1" rowspan="2">558481</td>
   </tr>
   <tr>
     <td class="tg-1wig">12h20</td>
     <td class="tg-1wig">12h30</td>
     <td class="tg-cly1">Conclusion et perspectives : vers l’infini et au-delà !</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09"><span style="color:#905">Lien zoom</span></a>
-    <td class="tg-cly1">981 9179 1531</td>
-    <td class="tg-cly1">558481</td>
   </tr>
 </tbody>
 </table>
