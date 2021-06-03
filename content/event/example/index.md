@@ -15,7 +15,7 @@ featured: true
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-location: Visioconférence Zoom [:point_down:](#liens-zoom)
+location: Visioconférence Zoom (liens plus bas)
 # projects:
 # - internal-project
 publishDate: "2021-05-20T00:00:00Z"
@@ -37,7 +37,7 @@ A l'occasion de la sortie de la première version d'`utilitR`, vous êtes tous i
 Réservez les dates dans vos agendas ! :date: :calendar:
 
 Ces matinées sont proposées via **`Zoom`**. Les informations d'accès sont disponibles
-plus loin sur [cette page :point_down:](#liens-zoom)(#liens-zoom)
+plus loin sur [cette page :point_down:](#liens-zoom)
 
 Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
