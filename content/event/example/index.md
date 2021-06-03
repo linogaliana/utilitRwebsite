@@ -36,7 +36,8 @@ A l'occasion de la sortie de la première version d'`utilitR`, vous êtes tous i
 
 Réservez les dates dans vos agendas ! :date: :calendar:
 
-Ces matinées sont proposées via **`Zoom`** (créneaux ajoutés prochainement).
+Ces matinées sont proposées via **`Zoom`**. Les informations d'accès sont disponibles
+plus loin sur [cette page](#liens-zoom)
 
 Un *"replay"* de ces matinées est prévu pour celles et ceux qui ne seraient pas disponibles.
 
@@ -206,7 +207,12 @@ Deux sessions de 2h30 sont prévues :
 </tbody>
 </table>
 
-# Liens `Zoom`
+# Liens `Zoom` {#liens-zoom}
+
+Le tableau suivant recense les liens zoom pour assister aux différentes sessions.
+Au cas-où le lien direct ne fonctionne pas, les codes directs d'accès
+sont fournis. 
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
