@@ -213,6 +213,7 @@ Le tableau suivant recense les liens zoom pour assister aux différentes session
 Au cas-où le lien direct ne fonctionne pas, les codes directs d'accès
 sont fournis. 
 
+## Mercredi 8 juin
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -345,6 +346,7 @@ sont fournis.
 </tbody>
 </table>
 
+## Mercredi 9 juin
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
