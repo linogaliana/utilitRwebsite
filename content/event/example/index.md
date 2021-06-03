@@ -240,17 +240,14 @@ sont fournis.
     <td class="tg-0pky">9h30</td>
     <td class="tg-0pky">10h00</td>
     <td class="tg-0pky">Accueil</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
-    <td class="tg-0pky">935 8022 6386</td>
-    <td class="tg-0pky">270758</td>
+    <td class="tg-0pky" rowspan="2"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
+    <td class="tg-0pky" rowspan="2">935 8022 6386</td>
+    <td class="tg-0pky" rowspan="2">270758</td>
   </tr>
   <tr>
     <td class="tg-0pky">10h00</td>
     <td class="tg-0pky">10h10</td>
     <td class="tg-0pky">Session plénière : Introduction générale</td>
-    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">Lien zoom</span></a></td>
-    <td class="tg-0pky">935 8022 6386</td>
-    <td class="tg-0pky">270758</td>
   </tr>
   <tr>
     <td class="tg-0pky">10h10</td>
