@@ -200,20 +200,244 @@ Deux sessions de 2h30 sont prévues :
 </tbody>
 </table>
 
-<!----------------
+# Liens `Zoom`
 
-* 9h50: Accueil
-* 10h00: Présentation de la démarche collaborative `utilitR` (session plénière)
-    + la stratégie open-source du projet
-    + originalité de l'organisation utilitR dans un paysage institutionnel
-* 10h30-10h40: Répartition sur les sessions parallèles
-* 10h40-11h10: Premiers retours d'expérience (sessions parallèles)
-    + Se former à l'utilisation de Git avec RStudio
-    + Utilisation de l'intégration continue avec Git et Rmarkdown par la cellule de crise covid de la Drees
-* 11h15-11h45: Retours d'expérience supplémentaires (sessions parallèles)   
-    + Mise en place d’une auto-formation à R : l’exemple du Grand Est
-    + Rédaction collaborative des notes et points de conjoncture depuis Gitlab
-* 11h50-12h20: La démarche PROPRE, PROcessus de Publications REproductibles (session plénière)
-* 12h20: Conclusion et perspectives : vers l’infini et au-delà !
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="3">mardi 8 juin 2021</th>
+    <th class="tg-1wig">lien Zoom</th>
+    <th class="tg-1wig">ID réunion</th>
+    <th class="tg-1wig">code secret</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">9h30</td>
+    <td class="tg-0pky">10h00</td>
+    <td class="tg-0pky">Accueil</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky">935 8022 6386</td>
+    <td class="tg-0pky">270758</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10h00</td>
+    <td class="tg-0pky">10h10</td>
+    <td class="tg-0pky">Session plénière : Introduction générale</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky">935 8022 6386</td>
+    <td class="tg-0pky">270758</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10h10</td>
+    <td class="tg-0pky">10h40</td>
+    <td class="tg-0pky">Session plénière : présentation d'utilitR, présentation des ateliers</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky">935 8022 6386</td>
+    <td class="tg-0pky">270758</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10h40</td>
+    <td class="tg-0pky">10h50</td>
+    <td class="tg-c3ow" colspan="3">Répartition en ateliers</td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">10h50</td>
+    <td class="tg-0pky">11h40</td>
+    <td class="tg-c3ow" colspan="4">Ateliers virtuels</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Importer des fichiers plats et des tableurs</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky">935 8022 6386</td>
+    <td class="tg-0pky">270758</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Manipuler des tables de données avec le tidyverse</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/96617047636?pwd=VlVOQUVpNFQzbHVXMGJEdTBVbmdSdz09"><span style="color:#905">https://zoom.us/j/96617047636?pwd=VlVOQUVpNFQzbHVXMGJEdTBVbmdSdz09</span></a></td>
+    <td class="tg-0pky">966 1704 7636</td>
+    <td class="tg-0pky">140768</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Faire des graphiques</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/97910050921?pwd=YTNvZEUwenJxc0tXOTJQT3VVVVNMZz09"><span style="color:#905">https://zoom.us/j/97910050921?pwd=YTNvZEUwenJxc0tXOTJQT3VVVVNMZz09</span></a></td>
+    <td class="tg-0pky">979 1005 0921</td>
+    <td class="tg-0pky">585723</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Utiliser des packages, choisir ses packages et gérer ses dépendances</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98113564230?pwd=ZEJQZm5LZHZrdmdnNnE3b2MrcUZPQT09"><span style="color:#905">https://zoom.us/j/98113564230?pwd=ZEJQZm5LZHZrdmdnNnE3b2MrcUZPQT09</span></a></td>
+    <td class="tg-0pky">981 1356 4230</td>
+    <td class="tg-0pky">752932</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Manipuler des tables de données avec data.table</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/98009137082?pwd=d2NJcXN5N3pPK2dXbTIwQzhpM0FEQT09"><span style="color:#905">https://zoom.us/j/98009137082?pwd=d2NJcXN5N3pPK2dXbTIwQzhpM0FEQT09</span></a></td>
+    <td class="tg-0pky">980 0913 7082</td>
+    <td class="tg-0pky">950717</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">Travailler avec des bases de données en R : les fichiers détails du Recensement de la Population</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/95499763374?pwd=NnFpeC8xbnp4THo2SEh1SktqamFxQT09"><span style="color:#905">https://zoom.us/j/95499763374?pwd=NnFpeC8xbnp4THo2SEh1SktqamFxQT09</span></a></td>
+    <td class="tg-0pky">954 9976 3374</td>
+    <td class="tg-0pky">184803</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11h40</td>
+    <td class="tg-0pky">11h50</td>
+    <td class="tg-0pky">Retour en présentiel</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">11h50</td>
+    <td class="tg-0pky">12h20</td>
+    <td class="tg-0pky">utilitR dans l’ensemble des ressources d’apprentissage de R</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky">935 8022 6386</td>
+    <td class="tg-0pky">270758</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">12h20</td>
+    <td class="tg-0pky">12h30</td>
+    <td class="tg-0pky">Conclusion générale</td>
+    <td class="tg-0pky"><a href="https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09"><span style="color:#905">https://zoom.us/j/93580226386?pwd=Ukt6dXAzeUsxK3ZtZUNlenJxVTdsZz09</span></a></td>
+    <td class="tg-0pky">935 8022 6386</td>
+    <td class="tg-0pky">270758</td>
+  </tr>
+</tbody>
+</table>
 
--------->
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-znvi{background-color:#B0AEAE;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax" colspan="3">mercredi 9 juin 2021</th>
+    <th class="tg-1wig">lien Zoom</th>
+    <th class="tg-1wig">ID réunion</th>
+    <th class="tg-1wig">code secret</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-1wig">9h30</td>
+    <td class="tg-1wig">10h</td>
+    <td class="tg-cly1">Accueil</td>
+    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-cly1">981 9179 1531</td>
+    <td class="tg-cly1">558481</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">10h</td>
+    <td class="tg-1wig">10h30</td>
+    <td class="tg-cly1">Présentation de la démarche collaborative utilitR</td>
+    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-cly1">981 9179 1531</td>
+    <td class="tg-cly1">558481</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">10h30</td>
+    <td class="tg-1wig">10h40</td>
+    <td class="tg-nrix" colspan="4">Répartition sur les sessions parallèles</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">10h40</td>
+    <td class="tg-1wig">11h10</td>
+    <td class="tg-nrix" colspan="2">Retours d'expériences (sessions parallèles)</td>
+    <td class="tg-znvi"></td>
+    <td class="tg-znvi"></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"></td>
+    <td class="tg-1wig"></td>
+    <td class="tg-cly1">Se former à l'utilisation de Git avec RStudio</td>
+    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-cly1">981 9179 1531</td>
+    <td class="tg-cly1">558481</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"></td>
+    <td class="tg-1wig"></td>
+    <td class="tg-cly1">Utilisation de l'intégration continue avec Git et Rmarkdown par la cellule de crise covid de la Drees</td>
+    <td class="tg-cly1">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</td>
+    <td class="tg-cly1">946 3648 5688</td>
+    <td class="tg-cly1">970538</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">11h15</td>
+    <td class="tg-1wig">11h45</td>
+    <td class="tg-nrix" colspan="2">Retours d'expériences (sessions parallèles)</td>
+    <td class="tg-znvi"></td>
+    <td class="tg-znvi"></td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"></td>
+    <td class="tg-1wig"></td>
+    <td class="tg-cly1">Mise en place d’une auto-formation à : l’exemple du Grand Est</td>
+    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-cly1">981 9179 1531</td>
+    <td class="tg-cly1">558481</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig"></td>
+    <td class="tg-1wig"></td>
+    <td class="tg-cly1">Rédaction collaborative des notes et points de conjoncture depuis Gitlab</td>
+    <td class="tg-cly1">https://zoom.us/j/94636485688?pwd=RFNRWWcrY2VRdnFBaWU3WDdRakRuZz09</td>
+    <td class="tg-cly1">946 3648 5688</td>
+    <td class="tg-cly1">970538</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">11h50</td>
+    <td class="tg-1wig">12h20</td>
+    <td class="tg-cly1">La démarche PROPRE (PROcessus de Publications REproductibles)</td>
+    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-cly1">981 9179 1531</td>
+    <td class="tg-cly1">558481</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">12h20</td>
+    <td class="tg-1wig">12h30</td>
+    <td class="tg-cly1">Conclusion et perspectives : vers l’infini et au-delà !</td>
+    <td class="tg-cly1">https://zoom.us/j/98191791531?pwd=S1poYlJER0ZzOUlnL2ZtNnlWS1U2dz09</td>
+    <td class="tg-cly1">981 9179 1531</td>
+    <td class="tg-cly1">558481</td>
+  </tr>
+</tbody>
+</table>
