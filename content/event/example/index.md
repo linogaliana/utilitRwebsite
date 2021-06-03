@@ -441,3 +441,7 @@ Deux sessions de 2h30 sont prévues :
   </tr>
 </tbody>
 </table>
+
+Il n’est pas nécessaire de posséder un compte Zoom pour participer, néanmoins, l’avertissement ci-dessous doit être pris en compte.
+
+> Cette réunion Zoom fait l’objet d’un traitement de données à caractère personnel, dont le responsable est le directeur général de l’Insee. La finalité de ce traitement est l’élaboration de statistiques pour l’amélioration de la qualité des réunions en visioconférence. Il relève de l’article 6 (1) e du règlement général sur la protection des données (RGPD), sur la base des missions de service public de l’Insee auquel il concourt. A l’occasion de ce traitement, sont collectées votre identité déclarée dans votre compte zoom, ainsi que votre adresse IP de connexion. Ces données sont détruites à l’échéance de six mois après leur collecte. Vous disposez d’un droit d’opposition, d’accès, copie et rectification des données vous concernant, ainsi que d'un droit à la limitation du traitement. Vous pouvez demander l’exercice de ces droits directement auprès de l’Insee (contact-rgpd@insee.fr) ou de son délégué à la protection des données (le-delegue-a-la-protection-des-donnees-personnelles@finances.gouv.fr). Vous pouvez également, en cas d’insatisfaction de vos demandes, adresser une réclamation à la Cnil
