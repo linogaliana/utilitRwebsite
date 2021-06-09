@@ -209,6 +209,12 @@ Deux sessions de 2h30 sont prévues :
 </tbody>
 </table>
 
+
+# Diapos
+
+* [Présentation de la démarche `PROPRE`](https://rdes_dreal.gitlab.io/propre.presentation/20210609_presentation_insee.html#1)
+
+
 # Liens `Zoom` {#liens-zoom}
 
 Le tableau suivant recense les liens zoom pour assister aux différentes sessions.
