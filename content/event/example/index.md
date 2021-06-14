@@ -212,8 +212,16 @@ Deux sessions de 2h30 sont prévues :
 
 # Diapos
 
-* Les présentations `utilitR` (ateliers et plénières) sont disponibles sur [www.presentations.utilitr.org](https://www.presentations.utilitr.org)
-* [Présentation de la démarche `PROPRE`](https://rdes_dreal.gitlab.io/propre.presentation/20210609_presentation_insee.html#1)
+
+* Ateliers et sessions plénières
+    + Les présentations `utilitR` (ateliers et plénières) sont disponibles sur [www.presentations.utilitr.org](https://www.presentations.utilitr.org) ;
+    + [Présentation de la démarche `PROPRE`](https://rdes_dreal.gitlab.io/propre.presentation/20210609_presentation_insee.html#1)
+
+* Sessions parallèles:
+    + [Utiliser `Git` avec `Rstudio`](prezreveal.html) ;
+    + [Mise en place d’une auto-formation à R: l'exemple du Grand Est](autoformation_r_grand_est.pdf) ;
+    + [Rédaction collaborative des notes et points de conjoncture depuis `Gitlab`](Presentation_utilitR.pdf) ;
+    + [Utilisation de l'intégration continue avec `Gitlab` par la DREES en appui à la cellule de crise Covid](utilitR_DREES.pptx)
 
 
 # Liens `Zoom` {#liens-zoom}
