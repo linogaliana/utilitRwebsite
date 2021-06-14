@@ -212,6 +212,7 @@ Deux sessions de 2h30 sont prévues :
 
 # Diapos
 
+* Les présentations `utilitR` (ateliers et plénières) sont disponibles sur [www.presentations.utilitr.org](https://www.presentations.utilitr.org)
 * [Présentation de la démarche `PROPRE`](https://rdes_dreal.gitlab.io/propre.presentation/20210609_presentation_insee.html#1)
 
 
