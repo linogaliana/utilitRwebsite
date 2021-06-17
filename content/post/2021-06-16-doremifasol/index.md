@@ -24,7 +24,7 @@ Il offre deux fonctionnalités principales :
 
 L'objectif du package est de rendre transparentes les différentes tâches à réaliser avant de pouvoir traiter les données : recherche sur le site, téléchargement, décompression, import dans `R`....
 
-Le fonctionnement du package et la liste des données disponibles est consultable sur le [site du package](https://inseefrlab.github.io/doremifasol).
+Le fonctionnement du package et la liste des données disponibles est consultable sur le [site du package](https://inseefrlab.github.io/DoReMIFaSol).
 
 Le code source du package est disponible sur [Github](https://github.com/InseeFrLab/DoReMIFaSol) et peut s'installer dans  `R` avec la commande suivante:
 
