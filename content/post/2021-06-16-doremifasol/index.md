@@ -22,11 +22,11 @@ Il offre deux fonctionnalités principales :
 * télécharger et importer dans `R` des fichiers disponibles sur insee.fr (Base Permanente des Équipements, Recensement de Population, Filosofi...) ;
 * requêter l'[API](https://api.insee.fr/catalogue) Sirene et recupérer les résultats dans `R`.
 
-L'objectif du package est de rendre transparentes les différentes tâches à réaliser avant de pouvoir traiter les données : recherche sur le site, téléchargement, décompression, import dans `R`....
+L'objectif du package est de rendre transparentes les différentes tâches à réaliser avant de pouvoir traiter les données : recherche sur le site, téléchargement, décompression, import dans `R`...
 
-Le fonctionnement du package et la liste des données disponibles est consultable sur le [site du package](https://inseefrlab.github.io/DoReMIFaSol).
+Le fonctionnement du package et la liste des données disponibles sont consultables sur le [site dédié](https://inseefrlab.github.io/DoReMIFaSol).
 
-Le code source du package est disponible sur [Github](https://github.com/InseeFrLab/DoReMIFaSol) et peut s'installer dans  `R` avec la commande suivante:
+Le code source est disponible sur [Github](https://github.com/InseeFrLab/DoReMIFaSol). Le package s'installe dans `R` avec la commande suivante :
 
 ```r
 remotes::install_github("inseefrlab/doremifasol")
