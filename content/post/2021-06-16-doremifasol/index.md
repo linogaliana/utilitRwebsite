@@ -26,7 +26,7 @@ L'objectif du package est de rendre transparentes les différentes tâches à r�
 
 Le fonctionnement du package et la liste des données disponibles est consultable sur le [site du package](https://inseefrlab.github.io/doremifasol).
 
-Le code source du package est disponible sur [Github](https://github.com/pierre-lamarche/DoReMIFaSol) et peut s'installer dans  `R` avec la commande suivante:
+Le code source du package est disponible sur [Github](https://github.com/InseeFrLab/DoReMIFaSol) et peut s'installer dans  `R` avec la commande suivante:
 
 ```r
 remotes::install_github("inseefrlab/doremifasol")
