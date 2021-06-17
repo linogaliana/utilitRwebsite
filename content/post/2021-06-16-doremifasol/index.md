@@ -15,7 +15,7 @@ slug: doremifasol
 
 ## Qu'est-ce que doremifasol ?
 
-Le package `doremifasol` (_Données en R Mises à disposition par l’Insee et Facilement Sollicitables_) permet d'importer facilement dans R des données Insee.
+Le package `doremifasol` (_Données en R Mises à disposition par l’Insee et Facilement Sollicitables_) permet d'importer facilement dans `R` des données Insee.
 
 Il offre deux fonctionnalités principales :
 
