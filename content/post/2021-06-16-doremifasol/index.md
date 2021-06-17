@@ -26,6 +26,13 @@ L'objectif du package est de rendre transparentes les différentes tâches à r�
 
 Le fonctionnement du package et la liste des données disponibles est consultable sur le [site du package](https://inseefrlab.github.io/doremifasol).
 
+Le code source du package est disponible sur [Github](https://github.com/pierre-lamarche/DoReMIFaSol) et peut s'installer dans  `R` avec la commande suivante:
+
+```r
+remotes::install_github("inseefrlab/doremifasol")
+```
+
+
 ## Quel rapport avec utilitR ?
 
 Afin de se rapprocher le plus possible des situations de travail rencontrées par les agents de l’Insee, la plupart des exemples de la documentation `utilitR` reposent sur des données produites par l’Insee.
