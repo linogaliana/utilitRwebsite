@@ -30,4 +30,4 @@ Le fonctionnement du package et la liste des données disponibles est consultabl
 
 Afin de se rapprocher le plus possible des situations de travail rencontrées par les agents de l’Insee, la plupart des exemples de la documentation `utilitR` reposent sur des données produites par l’Insee.
 
-Le package `doremifasol` a été utilisé pour récupérer des données dans R et créer un petit package de données appelé `doremifasolData`. C'est ce dernier package qui est utilisé pour disposer d'exemples reproductibles dans la documentation.
+Le package `doremifasol` a été utilisé pour récupérer des données dans `R` et créer un petit package ne contenant que des données se nommant `doremifasolData`. C'est ce dernier package qui est utilisé pour disposer d'exemples reproductibles dans la documentation.
