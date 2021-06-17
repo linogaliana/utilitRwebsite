@@ -32,6 +32,23 @@ Le code source du package est disponible sur [Github](https://github.com/InseeFr
 remotes::install_github("inseefrlab/doremifasol")
 ```
 
+## Exemple d'utilisation
+
+On cherche des données récentes sur les naissances (source État Civil). On peut commencer par consulter la liste des données téléchargeables sur [cette page](https://inseefrlab.github.io/DoReMIFaSol/articles/donnees_dispo.html)
+
+En saisissant "naissances" dans la barre de recherche, on trouve plusieurs jeux de données. On choisit le plus récent à ce jour : "Données de naissances par commune, 2010-2019". Il a le nom court `"NAISSANCES_COM_1019"` (c'est ce nom qui servira pour les instructions suivantes).
+
+Par acquis de concscience, on peut au préalable consulter la page de documentation de ces données sur le site de l'Insee :
+```r
+consulter("NAISSANCES_COM_1019")
+```
+
+Si cela correspond bien à ce que l'on souhaite, on importe directement les données dans `R` :
+```r
+naissances1019 <- telechargerDonnees("NAISSANCES_COM_1019")
+```
+
+Par défaut, les fichiers sont téléchargés dans un dossier temporaire. Il est possible de choisir un autre dossier (paramètre `telDir`). Celui-ci jouera le rôle de cache et évitera des retéléchargements inutiles.
 
 ## Quel rapport avec utilitR ?
 
