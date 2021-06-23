@@ -54,4 +54,4 @@ Par défaut, les fichiers sont téléchargés dans un dossier temporaire. Il est
 
 Afin de se rapprocher le plus possible des situations de travail rencontrées par les agents de l’Insee, la plupart des exemples de la documentation `utilitR` reposent sur des données produites et mises à disposition au grand public par l’Insee.
 
-Le package `doremifasol` a été utilisé pour récupérer des données dans `R` et créer un petit package compagnon ne contenant que des données se nommant `doremifasolData`. C'est ce dernier package qui est utilisé pour disposer d'exemples reproductibles dans la documentation.
+Le package `doremifasol` a été utilisé pour récupérer des données dans `R` et créer un petit package compagnon ne contenant que des données. C'est ce dernier package (nommé `doremifasolData`) qui est utilisé pour disposer d'exemples reproductibles dans la documentation.
