@@ -34,9 +34,9 @@ remotes::install_github("inseefrlab/doremifasol")
 
 ## Exemple d'utilisation
 
-On cherche des données récentes sur les naissances (source État Civil). On peut commencer par consulter la liste des données téléchargeables sur [cette page](https://inseefrlab.github.io/DoReMIFaSol/articles/donnees_dispo.html)
+On cherche des données récentes sur les naissances (source État Civil). On peut commencer par consulter la [liste des données téléchargeables](https://inseefrlab.github.io/DoReMIFaSol/articles/donnees_dispo.html).
 
-En saisissant "naissances" dans la barre de recherche de [la page web](https://inseefrlab.github.io/DoReMIFaSol/articles/donnees_dispo.html), on trouve plusieurs jeux de données. On choisit le plus récent à ce jour : "Données de naissances par commune, 2010-2019". Il a le nom court `"NAISSANCES_COM_1019"` (c'est ce nom qui servira pour les instructions suivantes).
+En saisissant "naissances" dans la barre de recherche de cette page, on trouve plusieurs jeux de données. On choisit le plus récent à ce jour : "Données de naissances par commune, 2010-2019". Il a le nom court `"NAISSANCES_COM_1019"` (c'est ce nom qui servira pour les instructions suivantes).
 
 Par acquit de conscience, on peut au préalable consulter la page de documentation de ces données sur le site de l'Insee :
 ```r
