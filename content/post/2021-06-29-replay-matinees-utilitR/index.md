@@ -1,6 +1,6 @@
 ---
 title: "Replay des matinées utilitR"
-author: admin
+author: "Lino Galiana et Olivier Meslin"
 date: 2021-06-29
 description: "Cette page fournit toutes les présentations et les enregistrements des matinées de découverte d'`utilitR`"
 draft: false
@@ -10,7 +10,7 @@ featured: true
 image:
   caption: ""
   focal_point: ""
-slug: about-utilitr
+slug: replay-matinees-utilitr
 ---
 
 
