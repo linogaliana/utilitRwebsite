@@ -1,5 +1,5 @@
 ---
-title: "Replay des matinées `utilitR`"
+title: "Replay des matinées utilitR"
 author: admin
 date: 2021-06-29
 description: "Cette page fournit toutes les présentations et les enregistrements des matinées de découverte d'`utilitR`"
