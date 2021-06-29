@@ -47,7 +47,7 @@ Au cours des matinées, vous pourrez poser toutes vos questions sur le salon Tch
 - Dans votre session Tchap, il suffit de cliquer sur le `+` à côté de l'onglet `salons` (dans le menu à gauche), puis `parcourir les salons publics`, puis chercher `utilitr` et choisir `utilitR-contact`.
 
 
-## Programme
+# Programme
 
 Deux sessions de 2h30 sont prévues :
 
@@ -208,7 +208,9 @@ Deux sessions de 2h30 sont prévues :
 </tbody>
 </table>
 
-# Diapos {#diapos}
+# Présentations {#diapos}
+
+Vous retrouverez ici les présentations des deux matinées:
 
 * Ateliers et sessions plénières
     + Les présentations `utilitR` (ateliers et plénières) sont disponibles sur [www.presentations.utilitr.org](https://www.presentations.utilitr.org) ;
@@ -221,7 +223,7 @@ Deux sessions de 2h30 sont prévues :
     + [Utilisation de l'intégration continue avec `Gitlab` par la DREES en appui à la cellule de crise Covid](utilitR_DREES.pptx)
 
 
-## Replay {#replay}
+# Replay des matinées {#replay}
 
 * [Session plénière : présentation d'`utilitR`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4)
 
@@ -239,6 +241,16 @@ Deux sessions de 2h30 sont prévues :
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-datatable.mp4" >}}
 
+* [Atelier : importer des fichiers plats et des fichiers issus de tableurs](https://minio.lab.sspcloud.fr/clairelegroux/utilitR/atelier-fichiers-plats.mp4)
+
+https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-fichiers-plats.mp4
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-fichiers-plats.mp4" >}}
+
+* [Atelier : réaliser des graphiques avec `R`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-graphiques.mp4)
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-graphiques.mp4" >}}
+
 * [Session plénière : Présentation de la démarche collaborative `utilitR`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere.mp4)
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere.mp4" >}}
@@ -246,3 +258,22 @@ Deux sessions de 2h30 sont prévues :
 * [Session plénière : Présentation de la démarche `PROPRE`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere2.mp4)
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere2.mp4" >}}
+
+* [Session parallèle : Rédaction collaborative des notes et points de conjoncture depuis Gitlab](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Conj.mp4)
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Conj.mp4" >}}
+
+
+* [Session parallèle : utilisation de l'intégration continue avec Gitlab par la DREES en appui à la cellule de crise Covid](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Drees.mp4)
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Drees.mp4" >}}
+
+
+* [Session parallèle : Mise en place d’une auto-formation à `R`: l’exemple du Grand Est](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/autoFormation-R-GrandEst.mp4)
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/autoFormation-R-GrandEst.mp4" >}}
+
+
+* [Session parallèle : Se former à l'utilisation de `Git` avec RStudio	](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Git-RStudio-retex.mp4)
+
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Git-RStudio-retex.mp4" >}}
