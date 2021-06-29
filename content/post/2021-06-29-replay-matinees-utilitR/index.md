@@ -1,8 +1,8 @@
 ---
-title: "Présentation du projet utilitR"
+title: "Replay des matinées `utilitR`"
 author: admin
-date: 2021-05-17
-description: "Une courte présentation du projet utilitR"
+date: 2021-06-29
+description: "Cette page fournit toutes les présentations et les enregistrements des matinées de découverte d'`utilitR`"
 draft: false
 categories: ["Le projet utilitR"]
 tags: ["presentation","conferences"]
