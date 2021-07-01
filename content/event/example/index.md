@@ -225,6 +225,8 @@ Vous retrouverez ici les présentations des deux matinées:
 
 # Replay des matinées {#replay}
 
+## Première matinée (8 juin)
+
 * [Session plénière : présentation d'`utilitR`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4)
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/pleniere.mp4" >}}
@@ -243,13 +245,14 @@ Vous retrouverez ici les présentations des deux matinées:
 
 * [Atelier : importer des fichiers plats et des fichiers issus de tableurs](https://minio.lab.sspcloud.fr/clairelegroux/utilitR/atelier-fichiers-plats.mp4)
 
-https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-fichiers-plats.mp4
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-fichiers-plats.mp4" >}}
 
 * [Atelier : réaliser des graphiques avec `R`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-graphiques.mp4)
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-graphiques.mp4" >}}
+
+## Seconde matinée (9 juin)
 
 * [Session plénière : Présentation de la démarche collaborative `utilitR`](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/pleniere.mp4)
 
