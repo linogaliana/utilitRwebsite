@@ -76,6 +76,8 @@ Vous retrouverez ici les replays des deux matinées.
 
 * [Session parallèle : utilisation de l'intégration continue avec Gitlab par la DREES en appui à la cellule de crise Covid](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Drees.mp4)
 
+{{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/Drees.mp4" >}}
+
 
 * [Session parallèle : Mise en place d’une auto-formation à `R`: l’exemple du Grand Est](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day2/autoFormation-R-GrandEst.mp4)
 
