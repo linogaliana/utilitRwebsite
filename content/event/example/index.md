@@ -243,7 +243,7 @@ Vous retrouverez ici les présentations des deux matinées:
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-datatable.mp4" >}}
 
-* [Atelier : importer des fichiers plats et des fichiers issus de tableurs](https://minio.lab.sspcloud.fr/clairelegroux/utilitR/atelier-fichiers-plats.mp4)
+* [Atelier : importer des fichiers plats et des fichiers issus de tableurs](https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-fichiers-plats.mp4)
 
 
 {{< customvideo src="https://minio.lab.sspcloud.fr/projet-utilitr/diffusion/matinees2021/day1/atelier-fichiers-plats.mp4" >}}
