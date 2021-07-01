@@ -1,0 +1,10 @@
+{{/* Enable video to be loaded from webpage */}}
+
+{{ $video := printf "%s" (.Get "src") }}
+{{ $video_type := strings.TrimPrefix "." (path.Ext (.Get "src")) }}
+
+<video controls>
+  <source src="{{ $video }}" type="video/{{$video_type}}">
+  <p>Votre navigateur ne prend pas en charge les vidéos HTML5.
+     Voici <a href="{{ $video }}">un lien pour télécharger la vidéo</a>.</p>
+</video>
