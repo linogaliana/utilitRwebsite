@@ -23,10 +23,10 @@ Vous retrouverez ici les présentations des deux matinées:
     + [Présentation de la démarche `PROPRE`](https://rdes_dreal.gitlab.io/propre.presentation/20210609_presentation_insee.html#1)
 
 * Sessions parallèles:
-    + [Utiliser `Git` avec `Rstudio`](prezreveal.html) ;
-    + [Mise en place d’une auto-formation à R: l'exemple du Grand Est](autoformation_r_grand_est.pdf) ;
-    + [Rédaction collaborative des notes et points de conjoncture depuis `Gitlab`](Presentation_utilitR.pdf) ;
-    + [Utilisation de l'intégration continue avec `Gitlab` par la DREES en appui à la cellule de crise Covid](utilitR_DREES.pptx)
+    + [Utiliser `Git` avec `Rstudio`](/conferences/decouverte-utilitr/prezreveal.html) ;
+    + [Mise en place d’une auto-formation à R: l'exemple du Grand Est](/conferences/decouverte-utilitr/autoformation_r_grand_est.pdf) ;
+    + [Rédaction collaborative des notes et points de conjoncture depuis `Gitlab`](/conferences/decouverte-utilitr/Presentation_utilitR.pdf) ;
+    + [Utilisation de l'intégration continue avec `Gitlab` par la DREES en appui à la cellule de crise Covid](/conferences/decouverte-utilitr/utilitR_DREES.pptx)
 
 
 # Replay des matinées {#replay}
