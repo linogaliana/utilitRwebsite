@@ -31,3 +31,6 @@ slug: rencontresR2021
 ---
 
 Présentation aux `Rencontres R 2021` disponible sur <https://www.presentations.utilitr.org/archives/rencontresr2021>
+
+
+{{< tweet 1414895903127838728 >}}
